@@ -1,4 +1,4 @@
-HTML ( Level 1) - Part A
+<h1>HTML ( Level 1) - Part A</h1>
 <ul>
   <li>Introduction to HTML</li>
   <li>HTML Tags and Elements</li>
