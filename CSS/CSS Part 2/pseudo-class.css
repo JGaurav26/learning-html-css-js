@@ -1,0 +1,26 @@
+/* HOVER */
+
+button:hover {
+    background-color: darkolivegreen;
+    color: ghostwhite;
+}
+
+/* ACTIVE */
+button:active{
+    background-color: lightgreen;
+}
+
+p:active {
+    font-weight: bold;
+    color: lightcyan;
+}
+
+/* CHECKED */
+input[type = "radio"]:checked + label {
+    color:red;
+    font-weight: bold;
+}
+
+div:nth-of-type(2){
+    background-color: rgb(174, 124, 59);
+}

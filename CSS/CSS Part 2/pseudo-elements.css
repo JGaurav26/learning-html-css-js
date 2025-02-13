@@ -1,0 +1,11 @@
+h1::first-letter {
+    color: black;
+}
+
+p::first-line{
+    color: plum;
+}
+
+p::selection{
+    background-color: lemonchiffon;
+}

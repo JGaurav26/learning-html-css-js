@@ -1,0 +1,19 @@
+div {
+    background-color:lightpink;
+}
+
+/* form{
+    background-color: aquamarine;
+} */
+
+input {
+    background-color: inherit;
+}
+
+button{
+    background-color: inherit;
+}
+
+button:hover{
+    background-color: crimson;
+}
