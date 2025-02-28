@@ -8,7 +8,7 @@
   <li>Margin Property</li>
   <li>Practice Qs</li>
   <li>Display Property</li>
-  <li>Conclusions ( BLock & Inline )</li>
+  <li>Conclusions ( Block & Inline )</li>
   <li>Inline - block</li>
   <li>Relative Unit ( Percentage )</li>
   <li>Em & Rem in Units</li>
