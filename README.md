@@ -44,8 +44,8 @@ If you're a recruiter, tech enthusiast, or fellow developer — feel free to rea
 | 🔗 Platform       | Link                                                                 |
 |------------------|----------------------------------------------------------------------|
 | 💼 LinkedIn      | [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) |
-| 🧑‍💻 GitHub        | [github.com/your-username](https://github.com/your-username)               |
-| 📧 Email          | [yourmail@example.com](mailto:yourmail@example.com)                   |
+| 🧑‍💻 GitHub        | [github.com/your-username](https://github.com/JGaurav26)               |
+| 📧 Email          | [yourmail@example.com](gauravmakarandjadhav@gmail.com)                   |
 
 ---
 
@@ -61,6 +61,6 @@ If you're a recruiter, tech enthusiast, or fellow developer — feel free to rea
 
 ## 🙋‍♂️ Author
 
-Made with precision, passion, and purpose by **GoJo**  
+Made with precision, passion, and purpose by **Gaurav Jadhav**  
 > *"Write code as if it’s poetry, and structure it like architecture."*
 
