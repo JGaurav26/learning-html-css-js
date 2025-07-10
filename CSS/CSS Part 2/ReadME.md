@@ -53,8 +53,3 @@ Or use **VS Code + Live Server** for real-time preview.
 ## 🔗 Next Steps
 
 Proceed to **[CSS Part 3](../CSS%20Part%203)** to learn about:
-- Box model in depth
-- Positioning
-- Z-index
-- Float and Clear
-- Visibility and Opacity
