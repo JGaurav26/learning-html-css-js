@@ -50,4 +50,4 @@ Open any `.html` file in a browser or use **Live Server** in VS Code for a real-
 
 ## 🔗 Next Steps
 
-Proceed to **[HTML (Level 3)](../HTML%20(Level%203))** to explore forms, tables, multimedia, and more.
+Proceed to **[HTML (Level 3)](../HTML%20%28%20Level%203%20%29)** to explore forms, tables, multimedia, and more.
