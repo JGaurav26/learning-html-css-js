@@ -9,13 +9,13 @@ This repository contains all the foundational programs and practice files relate
 - [HTML](HTML)  
   Covers all HTML basics including tags, elements, semantic markup, tables, forms, and more — organized in levels.
 
-- [CSS](./CSS)  
+- [CSS](CSS)  
   Contains styling fundamentals: selectors, box model, flexbox, grid, animations, and responsive design (WIP).
 
-- [JS](./JS)  
+- [JS](JS)  
   JavaScript basics including variables, functions, conditions, loops, DOM manipulation, and event handling (WIP).
 
-- [Assignments](./Assignments)  
+- [Assignments](Assignments)  
   Practice sets and exercises based on each module to reinforce concepts.
 
 ---
