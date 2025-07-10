@@ -57,4 +57,4 @@ For live preview, use **Live Server** extension in VS Code.
 
 ## 🔗 Next Steps
 
-You're now ready to move on to **CSS Basics**, where you'll learn how to style all the HTML you've mastered.
+You're now ready to move on to **[CSS Basics](../../CSS)**, where you'll learn how to style all the HTML you've mastered.
