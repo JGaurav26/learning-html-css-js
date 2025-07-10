@@ -54,8 +54,3 @@ Or use VS Code + Live Server for real-time preview.
 ## 🔗 Next Steps
 
 Proceed to **[Go to Part B](../HTML%20%28%20Level%201%29%20-%20Part%20B)** to learn about:
-- Anchor tags
-- Images
-- Breaks and horizontal rules
-- Forms
-- Inline vs Block elements
