@@ -1,9 +1,14 @@
-<h1>CSS ( Cascading Style Sheets )</h1>
-<ul>
-  <li>CSS Part 1</li>
-  <li>CSS Part 2</li>
-  <li>CSS Part 3 </li>
-  <li>CSS Part 4</li>
-  <li>CSS Part 5</li>
-  <li>CSS Part 6</li>
-</ul>
+# CSS (Cascading Style Sheets)
+
+This section includes all style-related modules, broken into parts for better learning and practice flow.
+
+---
+
+## 📚 Parts Covered
+
+- [CSS Part 1](CSS%20Part%201)
+- [CSS Part 2](CSS%20Part%202)
+- [CSS Part 3](CSS%20Part%203)
+- [CSS Part 4](CSS%20Part%204)
+- [CSS Part 5](CSS%20Part%205)
+- [CSS Part 6](CSS%20Part%206)
