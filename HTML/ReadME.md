@@ -6,10 +6,13 @@ This section contains my complete learning journey through HTML, organized into 
 
 ## 📚 Levels Covered
 
-- [HTML (Level 1) – Part A](./HTML%20(Level%201)%20-%20Part%20A)  
-- [HTML (Level 1) – Part B](./HTML%20(Level%201)%20-%20Part%20B)  
-- [HTML (Level 2)](./HTML%20(Level%202))  
-- [HTML (Level 3)](./HTML%20(Level%203))  
+[HTML (Level 1) – Part A](./HTML/HTML%20(%20Level%201%20)%20-%20Part%20A)
+
+[HTML (Level 1) – Part B](./HTML/HTML%20(%20Level%201%20)%20-%20Part%20B)
+
+[HTML (Level 2)](./HTML/HTML%20(%20Level%202%20))
+
+[HTML (Level 3)](./HTML/HTML%20(%20Level%203%20))
 
 ---
 
