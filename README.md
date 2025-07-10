@@ -43,16 +43,13 @@ If you're a recruiter 🚀, developer 🧑‍💻, or just passionate about buil
 
 ### 🌐 My Digital Presence
 
-- 🔗 **LinkedIn**  
-  [linkedin.com/in/gauravmakarand](https://www.linkedin.com/in/gauravmakarand)  
+- 🔗 **[LinkedIn](www.linkedin.com/in/gauravmakrandjadhav)**  
   → Let’s build something awesome together, or feel free to drop in for a collab 💬
 
-- 🧑‍💻 **GitHub**  
-  [github.com/JGaurav26](https://github.com/JGaurav26)  
+- 🧑‍💻 **[GitHub](https://github.com/JGaurav26)**
   → Explore more open-source projects, utilities, and experiments
 
-- ✉️ **Email**  
-  [gauravmakarandjadhav@gmail.com](mailto:gauravmakarandjadhav@gmail.com)  
+- ✉️ **[Email](mailto:gauravmakarandjadhav@gmail.com)** 
   → Available for internships, freelance, and networking
 
 ---
