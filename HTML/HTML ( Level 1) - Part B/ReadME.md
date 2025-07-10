@@ -43,4 +43,4 @@ For live editing, use **VS Code + Live Server** extension.
 
 ## 🔗 Next Steps
 
-Proceed to **[HTML (Level 2)](../HTML%20(Level%202))** to continue your HTML learning.
+Proceed to **[HTML (Level 2)](../HTML%20%28%20Level%202%20%29)** to continue your HTML learning.
