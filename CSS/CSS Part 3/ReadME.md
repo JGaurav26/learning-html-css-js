@@ -48,8 +48,3 @@ Or use **VS Code + Live Server** for real-time preview.
 ## 🔗 Next Steps
 
 Proceed to **[CSS Part 4](../CSS%20Part%204)** to learn about:
-- Positioning elements (static, relative, absolute, fixed)
-- Z-index
-- Overflow
-- Visibility
-- Opacity
