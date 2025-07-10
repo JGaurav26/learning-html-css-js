@@ -6,7 +6,7 @@ This repository contains all the foundational programs and practice files relate
 
 ## 📁 Folder Structure
 
-- [HTML](./HTML)  
+- [HTML](HTML)  
   Covers all HTML basics including tags, elements, semantic markup, tables, forms, and more — organized in levels.
 
 - [CSS](./CSS)  
