@@ -54,9 +54,3 @@ Or use **VS Code + Live Server** for real-time preview.
 ## 🔗 Next Steps
 
 Proceed to **[CSS Part 2](../CSS%20Part%202)** to learn about:
-- Margin & Padding
-- Box Model
-- Borders
-- Width and Height
-- Overflow
-- Display Property
