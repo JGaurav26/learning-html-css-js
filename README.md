@@ -43,7 +43,7 @@ If you're a recruiter 🚀, developer 🧑‍💻, or just passionate about buil
 
 ### 🌐 My Digital Presence
 
-- 🔗 **[LinkedIn](www.linkedin.com/in/gauravmakrandjadhav)**  
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/gauravmakrandjadhav/)**  
   → Let’s build something awesome together, or feel free to drop in for a collab 💬
 
 - 🧑‍💻 **[GitHub](https://github.com/JGaurav26)**
